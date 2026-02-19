@@ -1,1 +1,2 @@
-# Aula teste do git e github
+# Aula teste do Git e Github
+Projetos de testes do GITHUB
