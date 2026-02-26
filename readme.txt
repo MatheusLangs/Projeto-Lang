@@ -7,3 +7,5 @@ Criar README (e preencher com as informações do projeto/atividade)
 Commit
 Publicar no GitHub
 Enviar link do repositório no Classroom
+
+teste de clonagem 1 periodo
